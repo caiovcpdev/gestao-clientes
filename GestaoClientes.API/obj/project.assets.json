@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "GestaoClientes.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "GestaoClientes.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GestaoClientes.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoClientes.Application.dll": {}
+        }
+      },
+      "GestaoClientes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/GestaoClientes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoClientes.Domain.dll": {}
+        }
+      },
+      "GestaoClientes.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "GestaoClientes.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GestaoClientes.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoClientes.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoClientes.Application/1.0.0": {
+      "type": "project",
+      "path": "../GestaoClientes.Application/GestaoClientes.Application.csproj",
+      "msbuildProject": "../GestaoClientes.Application/GestaoClientes.Application.csproj"
+    },
+    "GestaoClientes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GestaoClientes.Domain/GestaoClientes.Domain.csproj",
+      "msbuildProject": "../GestaoClientes.Domain/GestaoClientes.Domain.csproj"
+    },
+    "GestaoClientes.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../GestaoClientes.Infrastructure/GestaoClientes.Infrastructure.csproj",
+      "msbuildProject": "../GestaoClientes.Infrastructure/GestaoClientes.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "GestaoClientes.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\caio.GRUPORECURSOS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.API\\GestaoClientes.API.csproj",
+      "projectName": "GestaoClientes.API",
+      "projectPath": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.API\\GestaoClientes.API.csproj",
+      "packagesPath": "C:\\Users\\caio.GRUPORECURSOS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\caio.GRUPORECURSOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.Infrastructure\\GestaoClientes.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.Infrastructure\\GestaoClientes.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

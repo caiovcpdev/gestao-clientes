@@ -1,0 +1,17 @@
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Infrastructure.deps.json
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Infrastructure.dll
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Infrastructure.pdb
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Application.dll
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Domain.dll
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Application.pdb
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\bin\Debug\net9.0\GestaoClientes.Domain.pdb
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.AssemblyInfo.cs
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoCl.1C8DFB1A.Up2Date
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.dll
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\refint\GestaoClientes.Infrastructure.dll
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.pdb
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\ref\GestaoClientes.Infrastructure.dll

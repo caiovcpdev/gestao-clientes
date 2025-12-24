@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "GestaoClientes.API.Controllers.ClientesController",
+    "Method": "Criar",
+    "RelativePath": "api/clientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GestaoClientes.Application.Clientes.Criar.CriaClienteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoClientes.API.Controllers.ClientesController",
+    "Method": "ObterPorId",
+    "RelativePath": "api/clientes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

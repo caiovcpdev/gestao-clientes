@@ -15,3 +15,4 @@ C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoC
 C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\refint\GestaoClientes.Infrastructure.dll
 C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.pdb
 C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\ref\GestaoClientes.Infrastructure.dll
+C:\Users\caio.GRUPORECURSOS\Documents\gestao-clientes\api\GestaoClientes\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.sourcelink.json

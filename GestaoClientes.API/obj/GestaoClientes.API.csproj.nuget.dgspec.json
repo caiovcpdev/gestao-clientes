@@ -32,6 +32,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.Application\\GestaoClientes.Application.csproj": {
+                "projectPath": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.Application\\GestaoClientes.Application.csproj"
+              },
               "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.Infrastructure\\GestaoClientes.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.Infrastructure\\GestaoClientes.Infrastructure.csproj"
               }
@@ -53,6 +56,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

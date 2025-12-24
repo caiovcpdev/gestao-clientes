@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HLoqYHfyRrU=",
+  "dgSpecHash": "yjF2we3lFKA=",
   "success": true,
   "projectFilePath": "C:\\Users\\caio.GRUPORECURSOS\\Documents\\gestao-clientes\\api\\GestaoClientes\\GestaoClientes.API\\GestaoClientes.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\caio.GRUPORECURSOS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\caio.GRUPORECURSOS\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
   "logs": []
 }

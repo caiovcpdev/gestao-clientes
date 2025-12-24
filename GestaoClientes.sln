@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoClientes.Domain", "GestaoClientes.Domain\GestaoClientes.Domain.csproj", "{C48A5852-F322-4EEF-BE20-9DF0620427EF}"
 EndProject
@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoClientes.Application"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoClientes.Infrastructure", "GestaoClientes.Infrastructure\GestaoClientes.Infrastructure.csproj", "{A1B77A63-5D04-4D26-9F2F-2DB792FC26D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoClientes.API", "GestaoClientes.API\GestaoClientes.API.csproj", "{CF8D2737-0E7D-44D3-8C84-F30EBE1C03D1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoClientes.Tests", "GestaoClientes.Tests\GestaoClientes.Tests.csproj", "{EEC90568-204C-4214-AB2F-DE814AF18830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoClientes.API", "GestaoClientes.API\GestaoClientes.API.csproj", "{839C4CD4-3E12-476D-8AC9-96E825437252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +31,14 @@ Global
 		{A1B77A63-5D04-4D26-9F2F-2DB792FC26D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B77A63-5D04-4D26-9F2F-2DB792FC26D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B77A63-5D04-4D26-9F2F-2DB792FC26D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF8D2737-0E7D-44D3-8C84-F30EBE1C03D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF8D2737-0E7D-44D3-8C84-F30EBE1C03D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF8D2737-0E7D-44D3-8C84-F30EBE1C03D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF8D2737-0E7D-44D3-8C84-F30EBE1C03D1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EEC90568-204C-4214-AB2F-DE814AF18830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EEC90568-204C-4214-AB2F-DE814AF18830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEC90568-204C-4214-AB2F-DE814AF18830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEC90568-204C-4214-AB2F-DE814AF18830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839C4CD4-3E12-476D-8AC9-96E825437252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839C4CD4-3E12-476D-8AC9-96E825437252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839C4CD4-3E12-476D-8AC9-96E825437252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839C4CD4-3E12-476D-8AC9-96E825437252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

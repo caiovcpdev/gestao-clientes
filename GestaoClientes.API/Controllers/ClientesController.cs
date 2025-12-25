@@ -1,4 +1,5 @@
-﻿using GestaoClientes.Application.Clientes.Criar;
+﻿using GestaoClientes.API.DTOs.Clientes;
+using GestaoClientes.Application.Clientes.Criar;
 using GestaoClientes.Application.Clientes.ObterPorId;
 using GestaoClientes.Application.IRepository;
 using Microsoft.AspNetCore.Mvc;
@@ -20,9 +21,9 @@ public class ClientesController : ControllerBase
         var handler = new CriaClienteCommandHandler(_repo);
         var id = await handler.HandleAsync(command);
 
-        //return CreatedAtAction(nameof(ObterPorId), new { id }, null);
+        var response = new ClienteCriadoResponse(id);
 
-        return Ok(id);
+        return CreatedAtAction(nameof(ObterPorId), new { id }, response);
     }
 
     [HttpGet("{id}")]
